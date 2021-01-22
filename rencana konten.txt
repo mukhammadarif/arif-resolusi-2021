@@ -1,8 +1,11 @@
 RENCANA KONTEN 2021
 - Membuat konten kuliner
  - Membuat animasi bergerak
- - Menfoto produk 
+ - Menfoto produk
+  *Krupuk
+  *Mujito
  - Dll
 - Konten pertanian
+ *Hidroponik
 - Konten masak
 
